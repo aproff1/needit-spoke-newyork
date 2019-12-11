@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property" label="Property" language="en" table="var__m_sys_hub_action_input_6b44da5fdb21001030c270e23996196c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property</element>
+            <help/>
+            <hint/>
+            <label>Property</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_6b44da5fdb21001030c270e23996196c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>aproff1</sys_created_by>
+            <sys_created_on>2019-12-11 13:40:51</sys_created_on>
+            <sys_id>2344da5fdb21001030c270e239961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_406641_needit_sp">67111adbdb21001030c270e2399619d5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">67111adbdb21001030c270e2399619d5</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_6b44da5fdb21001030c270e23996196c_property_en</sys_update_name>
+            <sys_updated_by>aproff1</sys_updated_by>
+            <sys_updated_on>2019-12-11 13:40:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
